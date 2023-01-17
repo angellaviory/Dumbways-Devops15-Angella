@@ -14,13 +14,13 @@ g. Continuous Operations: Tahap dimana menjaga kestabilan dan kualitas aplikasi.
 
 3. Instalasi Ubuntu Server menggunakan Multipass
 
-Screenshot 2023-01-11 at 19.55.27.png
-Screenshot 2023-01-11 at 01.18.03.png
-Screenshot 2023-01-11 at 01.18.21.png
-Screenshot 2023-01-11 at 01.18.29.png
-Screenshot 2023-01-11 at 01.18.40.png
-Screenshot 2023-01-11 at 01.18.44.png
-Screenshot 2023-01-11 at 01.18.55.png
-Screenshot 2023-01-11 at 01.19.06.png
-Screenshot 2023-01-11 at 19.54.20.png
-Screenshot 2023-01-12 at 00.23.09.png
+Screenshot 2023-01-11 at 19.55.27.png,
+Screenshot 2023-01-11 at 01.18.03.png,
+Screenshot 2023-01-11 at 01.18.21.png,
+Screenshot 2023-01-11 at 01.18.29.png,
+Screenshot 2023-01-11 at 01.18.40.png,
+Screenshot 2023-01-11 at 01.18.44.png,
+Screenshot 2023-01-11 at 01.18.55.png,
+Screenshot 2023-01-11 at 01.19.06.png,
+Screenshot 2023-01-11 at 19.54.20.png,
+Screenshot 2023-01-12 at 00.23.09.png.
