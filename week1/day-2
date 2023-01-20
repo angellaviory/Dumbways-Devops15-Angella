@@ -1,38 +1,28 @@
 1. Jelaskan perbedaan IP Publik dan IP Private
 
-IP Publik: alamat IP yang diberikan oleh penyedia layanan internet (ISP, contoh: indihome, dll) yang dapat digunakan untuk mengakses internet sehingga dapat terhubung dengan jaringan yang lebih luas. 
-IP Private: alamat IP yang ada pada perangkat seperti laptop, printer, handphone, dll agar dapat terhubung dengan jaringan lokal. 
+    IP Publik: alamat IP yang diberikan oleh penyedia layanan internet (ISP, contoh: indihome, dll) yang dapat digunakan untuk mengakses internet sehingga dapat terhubung dengan jaringan yang lebih luas. 
+    IP Private: alamat IP yang ada pada perangkat seperti laptop, printer, handphone, dll agar dapat terhubung dengan jaringan lokal. 
 
 2. Jelaskan perbedaan Client to Server dan Peer to Peer
 
-Client to Server: dapat disebut juga  dedicated server merupakan jaringan dimana satu komputer (server) akan menjadi pusat yang dapat diakses oleh komputer-komputer lain (client). Server yang memegang kendali dalam jaringan dan biasanya untuk client bisa terhubung dengan server, harus membuat permintaan kepada server.  
-Peer to Peer: dapat disebut juga non dedicated server merupakan jaringan dimana semua komputer dapat menjadi server maupun client. Hal ini komputer satu dengan yang lainnya dapat saling berinteraksi tanpa meminta akses terlebih dahulu. 
+    Client to Server: dapat disebut juga  dedicated server merupakan jaringan dimana satu komputer (server) akan menjadi pusat yang dapat diakses oleh komputer-komputer lain (client). Server yang memegang kendali dalam jaringan dan biasanya untuk client bisa terhubung dengan server, harus membuat permintaan kepada server.  
+    Peer to Peer: dapat disebut juga non dedicated server merupakan jaringan dimana semua komputer dapat menjadi server maupun client. Hal ini komputer satu dengan yang lainnya dapat saling berinteraksi tanpa meminta akses terlebih dahulu. 
 
 3. Jalankan Nginx di server
 
-Screenshot 2023-01-12 at 01.55.04.png
-Screenshot 2023-01-12 at 01.56.04.png
-Screenshot 2023-01-12 at 09.47.14.png
 
 4. Cari 3 command shell dan berikan definisinya
 
 cd: masuk ke directory yang sudah dibuat.
-Screenshot 2023-01-12 at 18.59.20.png
+
 
 touch: membuat file baru.
-Screenshot 2023-01-12 at 18.59.20.png
+
 
 history: riwayat perintah yang digunakan.
-ss.png
+
 
 Challenge : Install node version manager dan jalankan nginx di Localtunnel
 
-1.png
-2.png
-3.png
-4.png
-5.png
-6.png
-7.png
-8.png
+
 
