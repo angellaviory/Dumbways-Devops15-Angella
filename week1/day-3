@@ -1,46 +1,21 @@
 1. Menjalankan aplikasi Webserver (nginx/apache)
 
-apache1.png
-apache2.png
-
 2. Jalankan 3 aplikasi "hello world"
 
-a. node.js
 
-nodejs1.png
-nodejs2.png
-nodejs3.png
-nodejs4.png
-nodejs5.png
-nodejs6.png
-nodejs7.png
 
 b. golang
 
-golang1.png
-golang2.png
-golang3.png
-golang4.png
-golang5.png
-golang6.png
-golang7.png
-golang8.png
+
 
 c. python
 
-python1.png
-python2.png
-python3.png
-python4.png
-python5.png
-python6.png
-python6.png
-python7.png
 
 
 3. Gunakan localtunnel untuk menjalankan "hello world" node.js
 
-lt1.png
+l
+t1.png
 lt2.png
 lt3.png
 lt4.png
