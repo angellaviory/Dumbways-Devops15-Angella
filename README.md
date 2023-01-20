@@ -10,3 +10,4 @@ Sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
  - Continuous Operations: Tahap dimana menjaga kestabilan dan kualitas aplikasi.
 
 3. Instalasi Ubuntu Server menggunakan Multipass
+https://user-images.githubusercontent.com/102456153/213635958-2dd94727-6d91-4626-9895-e8d340449fa1.png
