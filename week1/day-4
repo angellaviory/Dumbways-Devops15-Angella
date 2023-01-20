@@ -1,0 +1,6 @@
+1.	Jelaskan definisi distributed revision control
+      Dimana penyimpanan pengerjaan suatu aplikasi dapat diakses oleh developer sehingga memudahkan dalam pengerjaan aplikasi. Developer dapat melakukan perubahan dalam kodingan secara bersamaan. Penyimpanan file pun dapat dilakukan baik secara online maupun offline.
+
+2.	Buat repository tugas kalian di github
+3.	Hubungkan SSH key ke akun github
+4.	Clone repository dumbflix-frondend dan buat 3 branch (development, staging dan production)
