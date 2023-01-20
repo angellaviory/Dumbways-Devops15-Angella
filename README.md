@@ -1,1 +1,1 @@
-
+Definisi DevOps: DevOps merupakan penggabungan dari kata “Development” dan “Operation”, yang bertugas sebagai jembatan penghubung antara development (programmer) dan operation (infrastruktur server) agar produk atau aplikasi yang dibuat dapat bekerja secara cepat, lancar dan tidak mengalami hambata
